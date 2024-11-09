@@ -1,0 +1,2305 @@
+[
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "IssueTicketViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "holidayViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeTaskViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "inoutViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "SalaryStructureViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeStatusViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmpContractViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "RuleCategoryViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "RuleViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeePaySlipViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeePaySlipLinesViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeLeaveViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "IssueTicketUserViewSet",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "compute_employee",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "print_payslip",
+        "importPath": "account.views",
+        "description": "account.views",
+        "isExtraImport": true,
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "ast",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ast",
+        "description": "ast",
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "inflect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inflect",
+        "description": "inflect",
+        "detail": "inflect",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "relativedelta",
+        "importPath": "dateutil.relativedelta",
+        "description": "dateutil.relativedelta",
+        "isExtraImport": true,
+        "detail": "dateutil.relativedelta",
+        "documentation": {}
+    },
+    {
+        "label": "ModelSerializer",
+        "importPath": "rest_framework.serializers",
+        "description": "rest_framework.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "smart_str",
+        "importPath": "django.utils.encoding",
+        "description": "django.utils.encoding",
+        "isExtraImport": true,
+        "detail": "django.utils.encoding",
+        "documentation": {}
+    },
+    {
+        "label": "force_bytes",
+        "importPath": "django.utils.encoding",
+        "description": "django.utils.encoding",
+        "isExtraImport": true,
+        "detail": "django.utils.encoding",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoUnicodeDecodeError",
+        "importPath": "django.utils.encoding",
+        "description": "django.utils.encoding",
+        "isExtraImport": true,
+        "detail": "django.utils.encoding",
+        "documentation": {}
+    },
+    {
+        "label": "urlsafe_base64_decode",
+        "importPath": "django.utils.http",
+        "description": "django.utils.http",
+        "isExtraImport": true,
+        "detail": "django.utils.http",
+        "documentation": {}
+    },
+    {
+        "label": "urlsafe_base64_encode",
+        "importPath": "django.utils.http",
+        "description": "django.utils.http",
+        "isExtraImport": true,
+        "detail": "django.utils.http",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordResetTokenGenerator",
+        "importPath": "django.contrib.auth.tokens",
+        "description": "django.contrib.auth.tokens",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "Util",
+        "importPath": "account.utils",
+        "description": "account.utils",
+        "isExtraImport": true,
+        "detail": "account.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pytz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytz",
+        "description": "pytz",
+        "detail": "pytz",
+        "documentation": {}
+    },
+    {
+        "label": "pprint",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pprint",
+        "description": "pprint",
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "pprint",
+        "importPath": "pprint",
+        "description": "pprint",
+        "isExtraImport": true,
+        "detail": "pprint",
+        "documentation": {}
+    },
+    {
+        "label": "shared_task",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMessage",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMessage",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "account",
+        "description": "account",
+        "isExtraImport": true,
+        "detail": "account",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "account",
+        "description": "account",
+        "isExtraImport": true,
+        "detail": "account",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "SearchFilter",
+        "importPath": "rest_framework.filters",
+        "description": "rest_framework.filters",
+        "isExtraImport": true,
+        "detail": "rest_framework.filters",
+        "documentation": {}
+    },
+    {
+        "label": "qrcode",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "qrcode",
+        "description": "qrcode",
+        "detail": "qrcode",
+        "documentation": {}
+    },
+    {
+        "label": "pisa",
+        "importPath": "xhtml2pdf",
+        "description": "xhtml2pdf",
+        "isExtraImport": true,
+        "detail": "xhtml2pdf",
+        "documentation": {}
+    },
+    {
+        "label": "get_template",
+        "importPath": "django.template.loader",
+        "description": "django.template.loader",
+        "isExtraImport": true,
+        "detail": "django.template.loader",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "absolute_import",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "crontab",
+        "importPath": "celery.schedules",
+        "description": "celery.schedules",
+        "isExtraImport": true,
+        "detail": "celery.schedules",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "account.api.urls",
+        "description": "account.api.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(r\"emp-list\", EmployeeViewSet, basename=\"Employee List\")\nrouter.register(r\"emp-task\", EmployeeTaskViewSet, basename=\"Employee task\")\nrouter.register(r\"issue-ticket\", IssueTicketViewSet, basename=\"Issue Ticket\")\nrouter.register(r\"holidays\", holidayViewSet, basename=\"holidays\")\nrouter.register(r\"in-out\", inoutViewSet, basename=\"in-out\")\nrouter.register(r\"employee-leave\", EmployeeLeaveViewSet, basename=\"employee_leave\")\nrouter.register(\"salary-structure\", SalaryStructureViewSet, basename=\"salary_structure\")\nrouter.register(\"employee-status\", EmployeeStatusViewSet, basename=\"employee_status\")\nrouter.register(\"emp-contract\", EmpContractViewSet, basename=\"emp_contract\")",
+        "detail": "account.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "account.api.urls",
+        "description": "account.api.urls",
+        "peekOfCode": "urlpatterns = [\n                  path('', include(router.urls)),\n              ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "account.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "account.migrations.0001_initial",
+        "description": "account.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Employee',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('password', models.CharField(max_length=128, verbose_name='password')),",
+        "detail": "account.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AccountConfig",
+        "kind": 6,
+        "importPath": "account.apps",
+        "description": "account.apps",
+        "peekOfCode": "class AccountConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'account'",
+        "detail": "account.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TableName",
+        "kind": 6,
+        "importPath": "account.constants",
+        "description": "account.constants",
+        "peekOfCode": "class TableName:\n    USERS = 'user'\n    HOLIDAYS = 'holiday'\n    EMPLOYEELEAVE = 'employeeleave'\n    SALARY = 'salary'\n    ALLOWANCE_PERCENTAGE_RULES = \"allowance_percentage\"\n    SALARY_STRUCTURE = \"salary_structure\"\n    EMPLOYEE_STATUS = \"employee_status\"\n    EMP_CONTRACT = \"emp_contract\"\n    RULES_CATEGORY = 'rules_category'",
+        "detail": "account.constants",
+        "documentation": {}
+    },
+    {
+        "label": "Integers",
+        "kind": 6,
+        "importPath": "account.constants",
+        "description": "account.constants",
+        "peekOfCode": "class Integers:\n    HUNDRED = 100\n    TWELVE = 12",
+        "detail": "account.constants",
+        "documentation": {}
+    },
+    {
+        "label": "EMPLOYEE_DESIGNATION",
+        "kind": 5,
+        "importPath": "account.constants",
+        "description": "account.constants",
+        "peekOfCode": "EMPLOYEE_DESIGNATION = (\n    (\"CEO\",\"CEO\"),\n    (\"COO\", \"COO\"),\n    (\"Project Manager\", \"Project Manager\"),\n    (\"Jr. PHP Laravel Developer\",\"Jr. PHP Laravel Developer\"),\n    (\"Sr. Developer\",\"Sr. Developer\"),\n    (\"UI/UX Designer\",\"UI/UX Designer\"),\n    (\"Product Manager\",\"Product Manager\"),\n    (\"Quality Engineer\",\"Quality Engineer\"),\n    (\"Quality Engineer Lead\",\"Quality Engineer Lead\"),",
+        "detail": "account.constants",
+        "documentation": {}
+    },
+    {
+        "label": "EMPLOYEE_ROLE",
+        "kind": 5,
+        "importPath": "account.constants",
+        "description": "account.constants",
+        "peekOfCode": "EMPLOYEE_ROLE = (\n    (\"Admin\", \"Admin\"),\n    (\"HR\", \"HR\"),\n    (\"Employee\", \"Employee\"),\n)\nEMPLOYEE_COMPANY = (\n    (\"PranshTech Solutions\", \"PranshTech Solutions\"),\n    (\"Textdrip\", \"Textdrip\"),\n)\nE_MENTOR=(",
+        "detail": "account.constants",
+        "documentation": {}
+    },
+    {
+        "label": "EMPLOYEE_COMPANY",
+        "kind": 5,
+        "importPath": "account.constants",
+        "description": "account.constants",
+        "peekOfCode": "EMPLOYEE_COMPANY = (\n    (\"PranshTech Solutions\", \"PranshTech Solutions\"),\n    (\"Textdrip\", \"Textdrip\"),\n)\nE_MENTOR=(\n    (\"Harsh Modi\",\"Harsh Modi\"),\n    (\"Kishan Patel\",\"Kishan Patel\"),\n    (\"Rahul Patel\",\"Rahul Patel\"),\n    (\"Harsh Sompura\",\"Harsh Sompura\"),\n    (\"Dhaval Gajjar\",\"Dhaval Gajjar\"),",
+        "detail": "account.constants",
+        "documentation": {}
+    },
+    {
+        "label": "EVENT_DAY",
+        "kind": 5,
+        "importPath": "account.constants",
+        "description": "account.constants",
+        "peekOfCode": "EVENT_DAY = (\n    ('Sunday', 'Sunday'),\n    ('Monday', 'Monday'),\n    ('Tuesday', 'Tuesday'),\n    ('Wednesday', 'Wednesday'),\n    ('Thursday', 'Thursday'),\n    ('Friday', 'Friday'),\n    ('Saturday', 'Saturday'),\n)\nLEAVE_TYPE = (",
+        "detail": "account.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LEAVE_TYPE",
+        "kind": 5,
+        "importPath": "account.constants",
+        "description": "account.constants",
+        "peekOfCode": "LEAVE_TYPE = (\n    (\"Casual Leave\", \"Casual Leave\"),\n    (\"Sick Leave\", \"Sick Leave\")\n)\nLEAVE_DAYS = (\n    (\"Full\", \"Full\"),\n    (\"Half\", \"Half\")\n)\nLEAVE_HALF = (\n    (\"First-Half\", \"First-Half\"),",
+        "detail": "account.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LEAVE_DAYS",
+        "kind": 5,
+        "importPath": "account.constants",
+        "description": "account.constants",
+        "peekOfCode": "LEAVE_DAYS = (\n    (\"Full\", \"Full\"),\n    (\"Half\", \"Half\")\n)\nLEAVE_HALF = (\n    (\"First-Half\", \"First-Half\"),\n    (\"Second-Half\", \"Second-Half\")\n)\nALLOWANCE_TYPE = (\n    (\"Basic\", \"Basic\"),",
+        "detail": "account.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LEAVE_HALF",
+        "kind": 5,
+        "importPath": "account.constants",
+        "description": "account.constants",
+        "peekOfCode": "LEAVE_HALF = (\n    (\"First-Half\", \"First-Half\"),\n    (\"Second-Half\", \"Second-Half\")\n)\nALLOWANCE_TYPE = (\n    (\"Basic\", \"Basic\"),\n    (\"Allowance\", \"Allowance\"),\n    (\"Deduct\", \"Deduct\")\n)\nAMOUNT_TYPE = (",
+        "detail": "account.constants",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWANCE_TYPE",
+        "kind": 5,
+        "importPath": "account.constants",
+        "description": "account.constants",
+        "peekOfCode": "ALLOWANCE_TYPE = (\n    (\"Basic\", \"Basic\"),\n    (\"Allowance\", \"Allowance\"),\n    (\"Deduct\", \"Deduct\")\n)\nAMOUNT_TYPE = (\n    # (\"Percentage\", \"Percentage\"),\n    (\"Fixed\", \"Fixed\"),\n    (\"Python Code\", \"Python Code\")\n)",
+        "detail": "account.constants",
+        "documentation": {}
+    },
+    {
+        "label": "AMOUNT_TYPE",
+        "kind": 5,
+        "importPath": "account.constants",
+        "description": "account.constants",
+        "peekOfCode": "AMOUNT_TYPE = (\n    # (\"Percentage\", \"Percentage\"),\n    (\"Fixed\", \"Fixed\"),\n    (\"Python Code\", \"Python Code\")\n)\nclass TableName:\n    USERS = 'user'\n    HOLIDAYS = 'holiday'\n    EMPLOYEELEAVE = 'employeeleave'\n    SALARY = 'salary'",
+        "detail": "account.constants",
+        "documentation": {}
+    },
+    {
+        "label": "UserBaseManager",
+        "kind": 6,
+        "importPath": "account.managers",
+        "description": "account.managers",
+        "peekOfCode": "class UserBaseManager(BaseUserManager):\n    def create_user(self, emp_id, emp_name,emp_birthday, emp_email,emp_contact,emp_address, emp_profile, emp_designation, emp_role, emp_company,is_active,bank_name=None, pf_number=None, bank_account_number=None, emp_uan=None,\n                    password=None, **extra_fields):\n        if not emp_email:\n            raise ValueError(\"Email is Required\")\n        user = self.model(emp_id=emp_id, emp_name=emp_name,emp_birthday=emp_birthday, emp_email=emp_email,emp_contact=emp_contact,emp_address=emp_address,emp_profile=emp_profile, emp_designation=emp_designation, emp_role=emp_role,\n                          emp_company=emp_company,bank_name=bank_name, pf_number=pf_number, bank_account_number=bank_account_number,\n                          emp_uan=emp_uan, **extra_fields)\n        user.set_password(password)\n        user.save(using=self._db)",
+        "detail": "account.managers",
+        "documentation": {}
+    },
+    {
+        "label": "Employee",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class Employee(AbstractBaseUser):\n    emp_id = models.CharField(max_length=10, help_text=\"Employee ID\",null=True, blank=True)\n    emp_name = models.CharField(max_length=30, help_text=\"Employee Name\")\n    emp_birthday = models.DateField(null=True)\n    emp_email = models.EmailField(max_length=255, unique=True, verbose_name=\"email\")\n    emp_contact = models.CharField(max_length=15)\n    emp_address = models.TextField(null=False)\n    emp_profile = models.ImageField(null=True, blank=True, upload_to='profile_image')\n    emp_designation = models.CharField(choices=EMPLOYEE_DESIGNATION, max_length=70, help_text=\"Employee Designation\")\n    emp_role = models.CharField(choices=EMPLOYEE_ROLE, max_length=50, help_text=\"Employee Role\")",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Working_hour",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class Working_hour(models.Model):\n    EMP_Id = models.ForeignKey(Employee, on_delete=models.CASCADE, related_name=\"hour\")\n    Punch_Date = models.DateField()\n    Punch_In = models.DateTimeField(null=True, blank=True)\n    Punch_Out = models.DateTimeField(null=True, blank=True)\n    worked_Hours = models.FloatField(default=0)\n    Total_Hours = models.FloatField(default=0)\n    def save(self, *args, **kwargs):\n        # Set the current date if the date is not provided\n        if not self.date:",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Holiday",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class Holiday(models.Model):\n    # holiday_id = models.AutoField(default=None,primary_key=True)\n    holiday_date = models.DateField()\n    holiday_name = models.CharField(max_length=50, help_text=\"Employee Name\")\n    holiday_day = models.CharField(max_length=50)\nclass Issue_Ticket(models.Model):\n    ticket_emp_id = models.ForeignKey(Employee, on_delete=models.CASCADE, related_name=\"issue_ticket\")\n    ticket_name = models.CharField(max_length=50, null=True, blank=True)\n    ticket_issue = models.TextField()\n    ticket_date = models.DateField(null=True,blank=True)",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Issue_Ticket",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class Issue_Ticket(models.Model):\n    ticket_emp_id = models.ForeignKey(Employee, on_delete=models.CASCADE, related_name=\"issue_ticket\")\n    ticket_name = models.CharField(max_length=50, null=True, blank=True)\n    ticket_issue = models.TextField()\n    ticket_date = models.DateField(null=True,blank=True)\n    ticket_status = models.CharField(max_length=50, choices=ISSUE_STATUS,default=\"Pending\")\n    ticket_email = models.EmailField(max_length=100, verbose_name=\"email\", null=True, blank=True)\n    def save(self, *args, **kwargs):\n        self.ticket_name = self.ticket_emp_id.emp_name\n        self.ticket_email = self.ticket_emp_id.emp_email",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Employee_Task",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class Employee_Task(models.Model):\n    employee = models.ForeignKey(Employee, on_delete=models.CASCADE, related_name=\"employee_task\", null=True, blank=True )\n    E_name = models.CharField(max_length=100, null=True, blank=True)\n    E_Card_Link = models.CharField(max_length=100)\n    E_Assign_Date = models.DateField(max_length=100)\n    E_Mentor = models.CharField(max_length=100, choices=E_MENTOR)\n    E_Priority = models.CharField(max_length=100, choices=E_PRIORITY)\n    def save(self, *args, **kwargs):\n        if not self.pk:\n            if self.employee:",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "In_Out",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class In_Out(models.Model):\n    employee = models.ForeignKey(Employee, on_delete=models.CASCADE, related_name=\"in_out\", null=True, blank=True )\n    name = models.CharField(max_length=100,  null=True, blank=True )\n    date = models.DateField()\n    type = models.CharField(max_length=50, choices=IN_OUT)\n    reason = models.CharField(max_length=1000)\n    approvel_status = models.CharField(max_length=50, choices=APPROVEL_STATUS)\n    def save(self, *args, **kwargs):\n        if not self.pk:\n            if self.employee:",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Events",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class Events(models.Model):\n    id = models.AutoField(primary_key=True)\n    name = models.CharField(max_length=255, null=True, blank=True)\n    start = models.DateTimeField(null=True, blank=True)\n    end = models.DateTimeField(null=True, blank=True)\n    class Meta:\n        db_table = \"tblevents\"\nclass SalaryStructure(models.Model):\n    structure_name = models.CharField(max_length=100, unique=True, help_text=\"Structure Name\")\n    class Meta:",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "SalaryStructure",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class SalaryStructure(models.Model):\n    structure_name = models.CharField(max_length=100, unique=True, help_text=\"Structure Name\")\n    class Meta:\n        db_table = TableName.SALARY_STRUCTURE\n    def __str__(self):\n        return self.structure_name\nclass EmployeeStatus(models.Model):\n    employee_status = models.CharField(max_length=100, unique=True, help_text=\"Status\")\n    class Meta:\n        db_table = TableName.EMPLOYEE_STATUS",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeStatus",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class EmployeeStatus(models.Model):\n    employee_status = models.CharField(max_length=100, unique=True, help_text=\"Status\")\n    class Meta:\n        db_table = TableName.EMPLOYEE_STATUS\n    def __str__(self):\n        return self.employee_status\nclass EmpContract(models.Model):\n    user = models.ForeignKey(Employee, on_delete=models.CASCADE, related_name=\"emp_contract\", null=True)\n    first_name = models.CharField(max_length=30, help_text=\"first_name\")\n    last_name = models.CharField(max_length=30, help_text=\"last_name\")",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmpContract",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class EmpContract(models.Model):\n    user = models.ForeignKey(Employee, on_delete=models.CASCADE, related_name=\"emp_contract\", null=True)\n    first_name = models.CharField(max_length=30, help_text=\"first_name\")\n    last_name = models.CharField(max_length=30, help_text=\"last_name\")\n    ctc = models.DecimalField(default=0.0, decimal_places=2, max_digits=10, null=False, blank=False, help_text=\"CTC\", )\n    salary_structure = models.ForeignKey(SalaryStructure, on_delete=models.CASCADE)\n    start_date = models.DateField()\n    end_date = models.DateField()\n    status = models.ForeignKey(EmployeeStatus, on_delete=models.CASCADE)\n    out_from_pf = models.BooleanField(default=False, help_text=\"Out From PF (If Not Mandatory)\")",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "RulesCategory",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class RulesCategory(models.Model):\n    rule_category_name = models.CharField(max_length=25, unique=True, help_text=\"rule_category_name\")\n    rule_category_code = models.CharField(max_length=5, unique=True, help_text=\"rule_category_code\")\n    class Meta:\n        db_table = TableName.RULES_CATEGORY\n    def get_rule_category_name(self):\n        self.rule_category_name = self.rule_category_name.upper()\n    def get_rule_category_code(self):\n        self.rule_category_code = self.rule_category_code.upper()\n    def save(self, *args, **kwargs):",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rule",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class Rule(models.Model):\n    name = models.CharField(max_length=25, unique=True)\n    code = models.CharField(max_length=15, unique=True)\n    category_id = models.ForeignKey(RulesCategory, on_delete=models.CASCADE)\n    amount_type = models.CharField(max_length=20, choices=AMOUNT_TYPE)\n    amount_value = models.TextField()\n    salary_structure_id = models.ForeignKey(SalaryStructure, on_delete=models.CASCADE, null=True, related_name=\"rules\")\n    sequence = models.IntegerField()\n    class Meta:\n        db_table = TableName.RULES",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeePaySlip",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class EmployeePaySlip(models.Model):\n    emp_id = models.ForeignKey(Employee, on_delete=models.CASCADE, related_name=\"employee_pay_slip\", null=True)\n    start_date = models.DateField(blank=True, null=True)\n    end_date = models.DateField(blank=True, null=True)\n    total_working_days = models.DecimalField(max_digits=3, decimal_places=1, null=True, blank=True)\n    total_payable_days_count = models.DecimalField(max_digits=3, decimal_places=1, null=True, blank=True)\n    deduct_weekends = models.BooleanField(default=False)\n    class Meta:\n        db_table = TableName.EMPLOYEE_PAY_SLIP\n    def check_valid_date(self):",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeePaySlipLines",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class EmployeePaySlipLines(models.Model):\n    slip_id = models.ForeignKey(EmployeePaySlip, on_delete=models.CASCADE, related_name=\"employee_pay_slip_lines\")\n    name = models.CharField(max_length=25)\n    code = models.CharField(max_length=10)\n    category_id = models.ForeignKey(RulesCategory, on_delete=models.CASCADE)\n    amount_type = models.CharField(max_length=20, choices=AMOUNT_TYPE, default=\"Fixed\")\n    amount_value = models.TextField()\n    rate = models.FloatField()\n    final = models.FloatField()\nclass EmployeeLeave(models.Model):",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeLeave",
+        "kind": 6,
+        "importPath": "account.models",
+        "description": "account.models",
+        "peekOfCode": "class EmployeeLeave(models.Model):\n    employee = models.ForeignKey(Employee, on_delete=models.CASCADE, related_name=\"employee_leaves\")\n    leave_type = models.CharField(max_length=50, choices=LEAVE_TYPE)\n    start_date = models.DateField()\n    end_date = models.DateField(null=True, blank=True)\n    leave_days = models.CharField(choices=LEAVE_DAYS, max_length=30)\n    leave_half = models.CharField(choices=LEAVE_HALF, max_length=30, null=True, blank=True)\n    no_leave_days = models.FloatField(null=True, blank=True)\n    leave_reason = models.TextField()\n    approval_status = models.CharField(max_length=50, choices=APPROVEL_STATUS, default='Pending')",
+        "detail": "account.models",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class EmployeeSerializer(ModelSerializer):\n    class Meta:\n        model = Employee\n        fields = \"__all__\"\nclass RelativeImageField(serializers.ImageField):\n    def to_representation(self, value):\n        if value:\n            return value.url\n        return None\nclass EmployeeRegistrationSerializer(ModelSerializer):",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RelativeImageField",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class RelativeImageField(serializers.ImageField):\n    def to_representation(self, value):\n        if value:\n            return value.url\n        return None\nclass EmployeeRegistrationSerializer(ModelSerializer):\n    class Meta:\n        model = Employee\n        fields = \"__all__\"\n        extra_kwargs = {",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeRegistrationSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class EmployeeRegistrationSerializer(ModelSerializer):\n    class Meta:\n        model = Employee\n        fields = \"__all__\"\n        extra_kwargs = {\n            'password': {'write_only': True}\n        }\n    def create(self, validated_data):\n        return Employee.objects.create_user(**validated_data)\nclass EmployeeLoginSerializer(ModelSerializer):",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeLoginSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class EmployeeLoginSerializer(ModelSerializer):\n    email = serializers.EmailField(max_length=255)\n    class Meta:\n        model = Employee\n        fields = ['email', 'password']\nclass EmployeeProfileSerializer(ModelSerializer):\n    class Meta:\n        model = Employee\n        fields = '__all__'\nclass EmployeeChangePasswordSerializer(serializers.ModelSerializer):",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeProfileSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class EmployeeProfileSerializer(ModelSerializer):\n    class Meta:\n        model = Employee\n        fields = '__all__'\nclass EmployeeChangePasswordSerializer(serializers.ModelSerializer):\n        password = serializers.CharField(max_length=50, style={'input_type': 'password'}, write_only=True)\n        password2 = serializers.CharField(max_length=50, style={'input_type': 'password'}, write_only=True)\n        class Meta:\n            model = Employee\n            fields = ['password', 'password2']",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeChangePasswordSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class EmployeeChangePasswordSerializer(serializers.ModelSerializer):\n        password = serializers.CharField(max_length=50, style={'input_type': 'password'}, write_only=True)\n        password2 = serializers.CharField(max_length=50, style={'input_type': 'password'}, write_only=True)\n        class Meta:\n            model = Employee\n            fields = ['password', 'password2']\n        def validate(self, data):\n            password = data.get('password')\n            password2 = data.get('password2')\n            if password != password2:",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SendPasswordResetSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class SendPasswordResetSerializer(ModelSerializer):\n    email = serializers.EmailField(max_length=255)\n    class Meta:\n        model = Employee\n        fields = ['email']\n    def validate(self, data):\n        email = data.get(\"email\")\n        if Employee.objects.filter(emp_email=email).exists():\n            employee = Employee.objects.get(emp_email=email)\n            uid = urlsafe_base64_encode(force_bytes(employee.id))",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserPasswordResetSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class UserPasswordResetSerializer(serializers.Serializer):\n    password = serializers.CharField(max_length=255, style={'input-type': 'password'}, write_only=True)\n    password2 = serializers.CharField(max_length=255, style={'input-type': 'password'}, write_only=True)\n    class Meta:\n        fields = ['password', 'password2']\n    def validate(self, attrs):\n        try:\n            password = attrs.get('password')\n            password2 = attrs.get('password2')\n            uid = self.context.get('uid')",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "IssueTicketSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class IssueTicketSerializer(ModelSerializer):\n    class Meta:\n        model = Issue_Ticket\n        fields = '__all__'\n# class IssueTicketUserSerializer(ModelSerializer):\n#     class Meta:\n#         model = Issue_Ticket\n#         fields = '__all__'\nclass HolidaySerializer(ModelSerializer):\n    class Meta:",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "HolidaySerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class HolidaySerializer(ModelSerializer):\n    class Meta:\n        model= Holiday\n        fields = ['id', 'holiday_date', 'holiday_name', 'holiday_day']\nclass EmployeeTaskSerializer(ModelSerializer):\n    class Meta:\n        model = Employee_Task\n        fields = '__all__'\nclass In_Out_serializer(ModelSerializer):\n    class Meta:",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeTaskSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class EmployeeTaskSerializer(ModelSerializer):\n    class Meta:\n        model = Employee_Task\n        fields = '__all__'\nclass In_Out_serializer(ModelSerializer):\n    class Meta:\n        model = In_Out\n        fields = '__all__'\nclass SalaryStructureSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "In_Out_serializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class In_Out_serializer(ModelSerializer):\n    class Meta:\n        model = In_Out\n        fields = '__all__'\nclass SalaryStructureSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = SalaryStructure\n        fields = ['id', 'structure_name']\nclass EmployeeStatusSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SalaryStructureSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class SalaryStructureSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = SalaryStructure\n        fields = ['id', 'structure_name']\nclass EmployeeStatusSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = EmployeeStatus\n        fields = ['id', 'employee_status']\nclass EmpContractSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeStatusSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class EmployeeStatusSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = EmployeeStatus\n        fields = ['id', 'employee_status']\nclass EmpContractSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = EmpContract\n        fields = ['id', 'user', 'first_name', 'last_name', 'ctc', 'salary_structure', 'start_date', 'end_date',\n                  'status']\nclass RuleCategorySerializer(serializers.ModelSerializer):",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EmpContractSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class EmpContractSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = EmpContract\n        fields = ['id', 'user', 'first_name', 'last_name', 'ctc', 'salary_structure', 'start_date', 'end_date',\n                  'status']\nclass RuleCategorySerializer(serializers.ModelSerializer):\n    # id = serializers.IntegerField(allow_null=True)\n    class Meta:\n        model = RulesCategory\n        fields = ['id', 'rule_category_name', 'rule_category_code']",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RuleCategorySerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class RuleCategorySerializer(serializers.ModelSerializer):\n    # id = serializers.IntegerField(allow_null=True)\n    class Meta:\n        model = RulesCategory\n        fields = ['id', 'rule_category_name', 'rule_category_code']\nclass RuleSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Rule\n        fields = ['id', 'name', 'code', 'category_id', 'amount_type', 'amount_value', 'salary_structure_id']\n    def validate(self, data):",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RuleSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class RuleSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Rule\n        fields = ['id', 'name', 'code', 'category_id', 'amount_type', 'amount_value', 'salary_structure_id']\n    def validate(self, data):\n        amt_type = data.get('amount_type')\n        amt_value = data.get('amount_value')\n        if amt_type == \"Python Code\" or amt_type != \"Fixed\":\n            try:\n                ast.parse(amt_value)",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeePaySlipSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class EmployeePaySlipSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = EmployeePaySlip\n        fields = ['id', 'emp', 'start_date', 'end_date', 'total_working_days', 'total_payable_days_count']\n    def validate(self, data):\n        start_date = data.get('start_date')\n        end_date = data.get('end_date')\n        duration = end_date - start_date\n        if duration.days < 0:\n            raise serializers.ValidationError(\"End date should be greater than Start date\")",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeePaySlipLinesSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class EmployeePaySlipLinesSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = EmployeePaySlipLines\n        fields = [\"id\", \"slip_id\", \"name\", \"code\", \"category_id\", \"amount_type\", \"amount_value\", \"rate\", \"final\"]\nclass EmployeeLeaveSerializer(ModelSerializer):\n    emp_name = serializers.SerializerMethodField()\n    class Meta:\n        model = EmployeeLeave\n        fields = '__all__'\n    def get_emp_name(self, obj):",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeLeaveSerializer",
+        "kind": 6,
+        "importPath": "account.serializers",
+        "description": "account.serializers",
+        "peekOfCode": "class EmployeeLeaveSerializer(ModelSerializer):\n    emp_name = serializers.SerializerMethodField()\n    class Meta:\n        model = EmployeeLeave\n        fields = '__all__'\n    def get_emp_name(self, obj):\n        return obj.employee.emp_name\n    def validate(self, data):\n        end_date = data.get('end_date')\n        start_date = data.get('start_date')",
+        "detail": "account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "send_email_before_end_date",
+        "kind": 2,
+        "importPath": "account.tasks",
+        "description": "account.tasks",
+        "peekOfCode": "def send_email_before_end_date():\n    one_week_from_now = timezone.now() + timedelta(days=7)\n    employees_to_notify = models.EmpContract.objects.filter(end_date__lte=one_week_from_now)\n    # print(\"################################\")\n    for employee in employees_to_notify:\n        # print(\"#########################33\")\n        subject = 'Contract Renewal Reminder'\n        message = f'''\n<html>\n<head></head>",
+        "detail": "account.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "account.urls",
+        "description": "account.urls",
+        "peekOfCode": "urlpatterns = [\n                  path('register/', EmployeeRegistrationView.as_view(), name=\"register\"),\n                  path('login/', EmployeeLoginView.as_view(), name=\"login\"),\n                  path('refreshtoken/', TokenRefreshView.as_view(), name=\"refreshtoken\"),\n                  path('logout/', EmployeeLogoutView.as_view(), name=\"logout\"),\n                  path(\"profile/\", EmployeeProfileView.as_view(), name=\"profile\"),\n                  path(\"changepassword/\", EmployeeChangePasswordView.as_view(), name=\"changepassword\"),\n                  path('send-password-reset-email/', SendPasswordResetEmailView.as_view(),\n                       name=\"SendPasswordResetEmail\"),\n                  path('reset-password/<uid>/<token>/', UserPasswordResetView.as_view(), name=\"reset_password\"),",
+        "detail": "account.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Util",
+        "kind": 6,
+        "importPath": "account.utils",
+        "description": "account.utils",
+        "peekOfCode": "class Util:\n    @staticmethod\n    def send_mail(data):\n        email = EmailMessage(\n            subject=data['subject'],\n            body=data['body'],\n            from_email=os.environ.get('EMAIL_USER'),\n            to=[data['to_email']]\n        )\n        email.send()",
+        "detail": "account.utils",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeViewSet(ModelViewSet):\n    # permission_classes = [IsAuthenticated]\n    queryset = Employee.objects.all()\n    serializer_class = EmployeeSerializer\nclass EmployeeTaskViewSet(ModelViewSet):\n    queryset = Employee_Task.objects.all()\n    serializer_class = EmployeeTaskSerializer\nclass EmployeeTaskView(APIView):\n    permission_classes=[IsAuthenticated]\n    def get(self, request):",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeTaskViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeTaskViewSet(ModelViewSet):\n    queryset = Employee_Task.objects.all()\n    serializer_class = EmployeeTaskSerializer\nclass EmployeeTaskView(APIView):\n    permission_classes=[IsAuthenticated]\n    def get(self, request):\n        print(request.user.id)\n        instance = Employee_Task.objects.filter(employee=request.user.id)\n        serializer = EmployeeTaskSerializer(instance, many=True)\n        return Response(serializer.data, status=status.HTTP_200_OK)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeTaskView",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeTaskView(APIView):\n    permission_classes=[IsAuthenticated]\n    def get(self, request):\n        print(request.user.id)\n        instance = Employee_Task.objects.filter(employee=request.user.id)\n        serializer = EmployeeTaskSerializer(instance, many=True)\n        return Response(serializer.data, status=status.HTTP_200_OK)\nclass EmployeeRegistrationView(APIView):\n    def post(self, request, format=None):\n        serializer = EmployeeRegistrationSerializer(data=request.data)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeRegistrationView",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeRegistrationView(APIView):\n    def post(self, request, format=None):\n        serializer = EmployeeRegistrationSerializer(data=request.data)\n        try:\n            serializer.is_valid(raise_exception=True)\n        except ValidationError as e:\n            print(f\"ValidationError: {e}\")  # Print the validation error\n            return Response({\"detail\": str(e)}, status=status.HTTP_400_BAD_REQUEST) \n        user = serializer.save()\n        return Response(serializer.data, status=status.HTTP_201_CREATED)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeLoginView",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeLoginView(APIView):\n    def post(self, request, format=None):\n        serializer = EmployeeLoginSerializer(data=request.data)\n        if serializer.is_valid(raise_exception=True):\n            email = serializer.data.get(\"email\")\n            password = serializer.data.get(\"password\")\n            user = authenticate(emp_email=email, password=password)\n            if user:\n                login(request, user)\n                token = get_tokens_for_user(user)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class TokenRefreshView(APIView):\n    def post(self, request, *args, **kwargs):\n        try:\n            refresh_token = request.data.get('refresh')\n            if not refresh_token:\n                return Response({\"error\": \"Refresh Token Not Provided\"}, status=status.HTTP_400_BAD_REQUEST)\n            refresh = RefreshToken(refresh_token)\n            new_access_token = str(refresh.access_token)\n            return Response({\"access\": new_access_token}, status=status.HTTP_200_OK)\n        except:",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeLogoutView",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeLogoutView(APIView):\n    permission_classes = [IsAuthenticated]\n    def post(self, request, *args, **kwargs):\n        try:\n            refresh_token = request.data.get('refresh')\n            if not refresh_token:\n                return Response({\"error\": \"Refresh token not provided\"}, status=status.HTTP_400_BAD_REQUEST)\n            else:\n                token = RefreshToken(refresh_token)\n                token.blacklist()",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeProfileView",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeProfileView(APIView):\n    def get(self, request, format=None):\n        try:\n            serializer = EmployeeProfileSerializer(request.user)\n            return Response(serializer.data, status=status.HTTP_200_OK)\n        except:\n            return Response({\"error\": \"Anonymous User\"}, status=status.HTTP_400_BAD_REQUEST)\n    def patch(self, request, format=None):\n        try:\n            user_profile = request.user",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeChangePasswordView",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeChangePasswordView(APIView):\n    permission_classes = [IsAuthenticated]\n    def post(self, request, format=None):\n        try:\n            serializer = EmployeeChangePasswordSerializer(data=request.data, context={'user': request.user})\n            if serializer.is_valid():\n                # Call save() method of the serializer and pass the instance argument\n                serializer.save(instance=request.user)\n                return Response({'detail': \"Password Updated Successfully\"}, status=status.HTTP_200_OK)\n            return Response({\"error\": serializer.errors}, status=status.HTTP_400_BAD_REQUEST)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "SendPasswordResetEmailView",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class SendPasswordResetEmailView(APIView):\n    permission_classes = [AllowAny]\n    def post(self, request, format=None):\n        serializer = SendPasswordResetSerializer(data=request.data)\n        if serializer.is_valid(raise_exception=True):\n            uid = serializer.validated_data.get('uid')\n            token = serializer.validated_data.get('token')\n            link = serializer.validated_data.get('link')\n            return Response({\"message\": \"Password Reset Link Is Been Send\", \"uid\": uid, \"token\": token, \"link\": link})\n        return Response({\"message\": \"There was an unexpected error\"})",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserPasswordResetView",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class UserPasswordResetView(APIView):\n    def post(self, request, uid, token, format=None):\n        serializer = UserPasswordResetSerializer(data=request.data, context={'uid': uid, 'token': token})\n        if serializer.is_valid(raise_exception=True):\n            return Response({'message': \"Password Reset Successfully\"})\n        return Response(serializer.errors)\n@api_view(['GET'])\ndef generate_qr_code(request):\n    try:\n        # Assuming you have only one employee for simplicity",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "IssueTicketUserViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class IssueTicketUserViewSet(APIView):\n    permission_classes=[IsAuthenticated]\n    def get(self, request):\n        instance = Issue_Ticket.objects.filter(ticket_email=request.user)\n        serializer = IssueTicketSerializer(instance, many=True)\n        return Response(serializer.data, status=status.HTTP_200_OK)\nclass IssueTicketViewSet(ModelViewSet):\n    serializer_class = IssueTicketSerializer\n    queryset = Issue_Ticket.objects.all()\n    def create(self, request, *args, **kwargs):",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "IssueTicketViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class IssueTicketViewSet(ModelViewSet):\n    serializer_class = IssueTicketSerializer\n    queryset = Issue_Ticket.objects.all()\n    def create(self, request, *args, **kwargs):\n        # Call the create method of the parent class\n        response = super().create(request, *args, **kwargs)\n        # Send email to admin\n        if response.status_code == 201:  # Only send email if the ticket was successfully created\n            ticket_data = response.data\n            subject = 'New Ticket Submitted'",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "holidayViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class holidayViewSet(ModelViewSet):\n    # permission_classes = [IsAuthenticated]\n    serializer_class = HolidaySerializer\n    queryset = Holiday.objects.all()\nclass inoutViewSet(ModelViewSet):\n    # permission_classes = [IsAuthenticated]\n    serializer_class = In_Out_serializer\n    queryset = In_Out.objects.all()\nclass EmployeeInOutView(APIView):\n    permission_classes=[IsAuthenticated]",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "inoutViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class inoutViewSet(ModelViewSet):\n    # permission_classes = [IsAuthenticated]\n    serializer_class = In_Out_serializer\n    queryset = In_Out.objects.all()\nclass EmployeeInOutView(APIView):\n    permission_classes=[IsAuthenticated]\n    def get(self, request):\n        print(request.user.id)\n        instance = In_Out.objects.filter(employee=request.user.id)\n        serializer = In_Out_serializer(instance, many=True)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeInOutView",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeInOutView(APIView):\n    permission_classes=[IsAuthenticated]\n    def get(self, request):\n        print(request.user.id)\n        instance = In_Out.objects.filter(employee=request.user.id)\n        serializer = In_Out_serializer(instance, many=True)\n        return Response(serializer.data, status=status.HTTP_200_OK)\ndef home(request):\n    return render(request, 'account/authentication.html')\ndef issue_ticket(request):",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeLeaveView",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeLeaveView(APIView):\n    permission_classes=[IsAuthenticated]\n    def get(self, request):\n        print(request.user.id)\n        instance = EmployeeLeave.objects.filter(employee=request.user.id)\n        serializer = EmployeeLeaveSerializer(instance, many=True)\n        return Response(serializer.data, status=status.HTTP_200_OK)\ndef inout_view(request):\n    form = In_Out.objects.all()\n    print(form)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "SalaryStructureViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class SalaryStructureViewSet(ModelViewSet):\n    queryset = SalaryStructure.objects.all()\n    serializer_class = SalaryStructureSerializer\nclass EmployeeStatusViewSet(ModelViewSet):\n    queryset = EmployeeStatus.objects.all()\n    serializer_class = EmployeeStatusSerializer\nclass EmpContractViewSet(ModelViewSet):\n    queryset = EmpContract.objects.all()\n    serializer_class = EmpContractSerializer\nclass RuleCategoryViewSet(ModelViewSet):",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeStatusViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeStatusViewSet(ModelViewSet):\n    queryset = EmployeeStatus.objects.all()\n    serializer_class = EmployeeStatusSerializer\nclass EmpContractViewSet(ModelViewSet):\n    queryset = EmpContract.objects.all()\n    serializer_class = EmpContractSerializer\nclass RuleCategoryViewSet(ModelViewSet):\n    queryset = RulesCategory.objects.all()\n    serializer_class = RuleCategorySerializer\nclass RuleViewSet(ModelViewSet):",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmpContractViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmpContractViewSet(ModelViewSet):\n    queryset = EmpContract.objects.all()\n    serializer_class = EmpContractSerializer\nclass RuleCategoryViewSet(ModelViewSet):\n    queryset = RulesCategory.objects.all()\n    serializer_class = RuleCategorySerializer\nclass RuleViewSet(ModelViewSet):\n    queryset = Rule.objects.all()\n    serializer_class = RuleSerializer\nclass EmployeePaySlipViewSet(ModelViewSet):",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "RuleCategoryViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class RuleCategoryViewSet(ModelViewSet):\n    queryset = RulesCategory.objects.all()\n    serializer_class = RuleCategorySerializer\nclass RuleViewSet(ModelViewSet):\n    queryset = Rule.objects.all()\n    serializer_class = RuleSerializer\nclass EmployeePaySlipViewSet(ModelViewSet):\n    queryset = EmployeePaySlip.objects.all()\n    serializer_class = EmployeePaySlipSerializer\n@api_view(['GET', 'POST'])",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "RuleViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class RuleViewSet(ModelViewSet):\n    queryset = Rule.objects.all()\n    serializer_class = RuleSerializer\nclass EmployeePaySlipViewSet(ModelViewSet):\n    queryset = EmployeePaySlip.objects.all()\n    serializer_class = EmployeePaySlipSerializer\n@api_view(['GET', 'POST'])\ndef compute_employee(request, payslip_id):\n    try:\n        payslip = EmployeePaySlip.objects.get(pk=payslip_id)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeePaySlipViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeePaySlipViewSet(ModelViewSet):\n    queryset = EmployeePaySlip.objects.all()\n    serializer_class = EmployeePaySlipSerializer\n@api_view(['GET', 'POST'])\ndef compute_employee(request, payslip_id):\n    try:\n        payslip = EmployeePaySlip.objects.get(pk=payslip_id)\n        payslip.employee_pay_slip_lines.all().delete()\n        # variable that can be used in python code\n        employee = payslip.emp_id",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeePaySlipLinesViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeePaySlipLinesViewSet(ModelViewSet):\n    queryset = EmployeePaySlipLines.objects.all()\n    serializer_class = EmployeePaySlipLinesSerializer\n@api_view(['GET'])\ndef print_payslip(request, payslip_id):\n    # import pdb;\n    # pdb.set_trace()\n    try:\n        payslip = EmployeePaySlip.objects.get(pk=payslip_id)\n        print(payslip.emp_id.emp_name)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "EmployeeLeaveViewSet",
+        "kind": 6,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "class EmployeeLeaveViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticated]\n    serializer_class = EmployeeLeaveSerializer\n    queryset = EmployeeLeave.objects.all()\n    filter_backends = [filters.SearchFilter]\n    search_fields = ['start_date']\n    def create(self, request, *args, **kwargs):\n        # Call the create method of the parent class\n        response = super().create(request, *args, **kwargs)\n        # Send email to admin",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_tokens_for_user",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def get_tokens_for_user(user):\n    refresh = RefreshToken.for_user(user)\n    return {\n        'refresh': str(refresh),\n        'access': str(refresh.access_token),\n    }\nclass EmployeeViewSet(ModelViewSet):\n    # permission_classes = [IsAuthenticated]\n    queryset = Employee.objects.all()\n    serializer_class = EmployeeSerializer",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "generate_qr_code",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def generate_qr_code(request):\n    try:\n        # Assuming you have only one employee for simplicity\n        employee = Employee.objects.get(id=1)\n        # Generate QR code data based on employee ID\n        qr_code_data = f\"employee_id:{employee.id}\"\n        # Generate QR code\n        qr = qrcode.QRCode(\n            version=1,\n            error_correction=qrcode.constants.ERROR_CORRECT_L,",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "scan_qr_code",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def scan_qr_code(request):\n    try:\n        qr_code_data = request.data.get('qr_code_data')\n        employee_id = int(qr_code_data.split(\":\")[1])\n        # Lookup employee by employee_id\n        employee = Employee.objects.get(id=employee_id)\n        # Update time entry based on employee's current status\n        current_time = datetime.now().time()\n        total_worked_hours = timedelta()\n        if employee.status:",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "format_total_worked_hours",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def format_total_worked_hours(total_worked_hours):\n    # Convert total worked hours to hours and minutes format\n    hours = total_worked_hours.seconds // 3600\n    minutes = (total_worked_hours.seconds // 60) % 60\n    return f\"{hours} hours {minutes} minutes\"\nclass IssueTicketUserViewSet(APIView):\n    permission_classes=[IsAuthenticated]\n    def get(self, request):\n        instance = Issue_Ticket.objects.filter(ticket_email=request.user)\n        serializer = IssueTicketSerializer(instance, many=True)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def home(request):\n    return render(request, 'account/authentication.html')\ndef issue_ticket(request):\n    return render(request, 'account/issue_ticket.html')\ndef forgot(request):\n    return render(request, 'account/forgot.html')\ndef changepassword(request):\n    return render(request, 'account/changepassword.html')\n@login_required\ndef dashboard(request):",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "issue_ticket",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def issue_ticket(request):\n    return render(request, 'account/issue_ticket.html')\ndef forgot(request):\n    return render(request, 'account/forgot.html')\ndef changepassword(request):\n    return render(request, 'account/changepassword.html')\n@login_required\ndef dashboard(request):\n    return render(request, 'account/dashboard.html')\ndef employee_list(request):",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "forgot",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def forgot(request):\n    return render(request, 'account/forgot.html')\ndef changepassword(request):\n    return render(request, 'account/changepassword.html')\n@login_required\ndef dashboard(request):\n    return render(request, 'account/dashboard.html')\ndef employee_list(request):\n    return render(request, 'account/new_emp_list.html')\ndef holidayView(request):",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "changepassword",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def changepassword(request):\n    return render(request, 'account/changepassword.html')\n@login_required\ndef dashboard(request):\n    return render(request, 'account/dashboard.html')\ndef employee_list(request):\n    return render(request, 'account/new_emp_list.html')\ndef holidayView(request):\n    form = Holiday.objects.all()\n    print(form)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def dashboard(request):\n    return render(request, 'account/dashboard.html')\ndef employee_list(request):\n    return render(request, 'account/new_emp_list.html')\ndef holidayView(request):\n    form = Holiday.objects.all()\n    print(form)\n    return render(request, 'account/holidays.html', {'form': form})\ndef employee_task_View(request):\n    return render(request, 'account/employee_task.html')",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "employee_list",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def employee_list(request):\n    return render(request, 'account/new_emp_list.html')\ndef holidayView(request):\n    form = Holiday.objects.all()\n    print(form)\n    return render(request, 'account/holidays.html', {'form': form})\ndef employee_task_View(request):\n    return render(request, 'account/employee_task.html')\ndef leave(request):\n    return render(request, 'account/emp_leave.html')",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "holidayView",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def holidayView(request):\n    form = Holiday.objects.all()\n    print(form)\n    return render(request, 'account/holidays.html', {'form': form})\ndef employee_task_View(request):\n    return render(request, 'account/employee_task.html')\ndef leave(request):\n    return render(request, 'account/emp_leave.html')\nclass EmployeeLeaveView(APIView):\n    permission_classes=[IsAuthenticated]",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "employee_task_View",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def employee_task_View(request):\n    return render(request, 'account/employee_task.html')\ndef leave(request):\n    return render(request, 'account/emp_leave.html')\nclass EmployeeLeaveView(APIView):\n    permission_classes=[IsAuthenticated]\n    def get(self, request):\n        print(request.user.id)\n        instance = EmployeeLeave.objects.filter(employee=request.user.id)\n        serializer = EmployeeLeaveSerializer(instance, many=True)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "leave",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def leave(request):\n    return render(request, 'account/emp_leave.html')\nclass EmployeeLeaveView(APIView):\n    permission_classes=[IsAuthenticated]\n    def get(self, request):\n        print(request.user.id)\n        instance = EmployeeLeave.objects.filter(employee=request.user.id)\n        serializer = EmployeeLeaveSerializer(instance, many=True)\n        return Response(serializer.data, status=status.HTTP_200_OK)\ndef inout_view(request):",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "inout_view",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def inout_view(request):\n    form = In_Out.objects.all()\n    print(form)\n    return render(request, 'account/in-out.html', {'form': form})\ndef Calendar(request):\n    all_events = Events.objects.all()\n    context = {\n        \"events\": all_events,\n    }\n    return render(request, 'account/calendar.html', context)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "Calendar",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def Calendar(request):\n    all_events = Events.objects.all()\n    context = {\n        \"events\": all_events,\n    }\n    return render(request, 'account/calendar.html', context)\ndef all_events(request):\n    try:\n        all_events = Events.objects.all()\n        out = []",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "all_events",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def all_events(request):\n    try:\n        all_events = Events.objects.all()\n        out = []\n        for event in all_events:\n            out.append({\n                'title': event.name,\n                'id': event.id,\n                'start': timezone.localtime(event.start).isoformat(),  # Convert to local time\n                'end': timezone.localtime(event.end).isoformat(),      # Convert to local time",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_event",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def add_event(request):\n    start = request.GET.get(\"start\", None)\n    end = request.GET.get(\"end\", None)\n    title = request.GET.get(\"title\", None)\n    event = Events(name=str(title), start=start, end=end)\n    event.save()\n    data = {}\n    return JsonResponse(data)\ndef update(request):\n    start = request.GET.get(\"start\", None)",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def update(request):\n    start = request.GET.get(\"start\", None)\n    end = request.GET.get(\"end\", None)\n    title = request.GET.get(\"title\", None)\n    id = request.GET.get(\"id\", None)\n    event = Events.objects.get(id=id)\n    event.start = start\n    event.end = end\n    event.name = title\n    event.save()",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "remove",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def remove(request):\n    id = request.GET.get(\"id\", None)\n    event = Events.objects.get(id=id)\n    event.delete()\n    data = {}\n    return JsonResponse(data)\nclass SalaryStructureViewSet(ModelViewSet):\n    queryset = SalaryStructure.objects.all()\n    serializer_class = SalaryStructureSerializer\nclass EmployeeStatusViewSet(ModelViewSet):",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "compute_employee",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def compute_employee(request, payslip_id):\n    try:\n        payslip = EmployeePaySlip.objects.get(pk=payslip_id)\n        payslip.employee_pay_slip_lines.all().delete()\n        # variable that can be used in python code\n        employee = payslip.emp_id\n        contract = employee.emp_contract.latest(\"id\")\n        contra = f\"EmployeePaySlip.objects.get(pk={str(payslip_id)}).emp.emp_contract.latest('id')\"\n        ordered_rules = contract.salary_structure.rules.order_by(\"sequence\")\n        # basic_total = sum(payslip.employee_pay_slip_lines.filter(category_id__rule_category_code__in=['BASIC']).values_list('rate', flat=True))",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "print_payslip",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def print_payslip(request, payslip_id):\n    # import pdb;\n    # pdb.set_trace()\n    try:\n        payslip = EmployeePaySlip.objects.get(pk=payslip_id)\n        print(payslip.emp_id.emp_name)\n    except EmployeePaySlip.DoesNotExist:\n        return HttpResponse({\"error\": \"Not Exist\"}, status=status.HTTP_404_NOT_FOUND)\n    net_amount = math.ceil(sum(\n        payslip.employee_pay_slip_lines.filter(category_id__rule_category_code__in=['BASIC', 'ALW']).values_list(",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "in_out_list",
+        "kind": 2,
+        "importPath": "account.views",
+        "description": "account.views",
+        "peekOfCode": "def in_out_list(request):\n    return render(request, 'account/in-out-list.html')",
+        "detail": "account.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "employee_management.asgi",
+        "description": "employee_management.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "employee_management.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "employee_management.celery",
+        "description": "employee_management.celery",
+        "peekOfCode": "app = Celery('employee_management')\napp.config_from_object('django.conf:settings', namespace='CELERY')\napp.autodiscover_tasks()\napp.conf.update(result_expires=10, result_backend='django-db')\n# Define a periodic task\napp.conf.beat_schedule = {\n    'daily_task': {\n        'task': 'account.tasks.send_email_before_end_date',\n        'schedule': crontab(hour=11, minute=24),  # Run daily at 07:44 PM\n    },",
+        "detail": "employee_management.celery",
+        "documentation": {}
+    },
+    {
+        "label": "app.conf.beat_schedule",
+        "kind": 5,
+        "importPath": "employee_management.celery",
+        "description": "employee_management.celery",
+        "peekOfCode": "app.conf.beat_schedule = {\n    'daily_task': {\n        'task': 'account.tasks.send_email_before_end_date',\n        'schedule': crontab(hour=11, minute=24),  # Run daily at 07:44 PM\n    },\n}",
+        "detail": "employee_management.celery",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-mg-(6t=z07*dhi1k3lx@ty@5zha&a6f=ry^i+3zq383e&v5t-d'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-mg-(6t=z07*dhi1k3lx@ty@5zha&a6f=ry^i+3zq383e&v5t-d'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework_simplejwt',\n    'rest_framework_simplejwt.token_blacklist',",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'django_dump_die.middleware.DumpAndDieMiddleware'\n]",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "ROOT_URLCONF = 'employee_management.urls'\nAUTH_USER_MODEL = \"account.Employee\"\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'yogeshgoswami0306@gmail.com'\nEMAIL_HOST_PASSWORD = 'rerrvgnxwnditqoj'\nDEFAULT_FROM_EMAIL = 'celery <yogeshgoswami0306@gmail.com>'\nTEMPLATES = [",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "AUTH_USER_MODEL = \"account.Employee\"\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'yogeshgoswami0306@gmail.com'\nEMAIL_HOST_PASSWORD = 'rerrvgnxwnditqoj'\nDEFAULT_FROM_EMAIL = 'celery <yogeshgoswami0306@gmail.com>'\nTEMPLATES = [\n    {",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'yogeshgoswami0306@gmail.com'\nEMAIL_HOST_PASSWORD = 'rerrvgnxwnditqoj'\nDEFAULT_FROM_EMAIL = 'celery <yogeshgoswami0306@gmail.com>'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'yogeshgoswami0306@gmail.com'\nEMAIL_HOST_PASSWORD = 'rerrvgnxwnditqoj'\nDEFAULT_FROM_EMAIL = 'celery <yogeshgoswami0306@gmail.com>'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'yogeshgoswami0306@gmail.com'\nEMAIL_HOST_PASSWORD = 'rerrvgnxwnditqoj'\nDEFAULT_FROM_EMAIL = 'celery <yogeshgoswami0306@gmail.com>'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "EMAIL_PORT = 587\nEMAIL_HOST_USER = 'yogeshgoswami0306@gmail.com'\nEMAIL_HOST_PASSWORD = 'rerrvgnxwnditqoj'\nDEFAULT_FROM_EMAIL = 'celery <yogeshgoswami0306@gmail.com>'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "EMAIL_HOST_USER = 'yogeshgoswami0306@gmail.com'\nEMAIL_HOST_PASSWORD = 'rerrvgnxwnditqoj'\nDEFAULT_FROM_EMAIL = 'celery <yogeshgoswami0306@gmail.com>'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = 'rerrvgnxwnditqoj'\nDEFAULT_FROM_EMAIL = 'celery <yogeshgoswami0306@gmail.com>'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FROM_EMAIL",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = 'celery <yogeshgoswami0306@gmail.com>'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'employee_management.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        # 'NAME': BASE_DIR / 'db.sqlite3',\n        'NAME': 'college_project',\n        'USER': 'postgres',\n        'PASSWORD': 'vishaldev',",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        # 'NAME': BASE_DIR / 'db.sqlite3',\n        'NAME': 'college_project',\n        'USER': 'postgres',\n        'PASSWORD': 'vishaldev',\n        'HOST': 'localhost',\n        'PORT': 5432\n    }",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nMEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Default primary key field type",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nMEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nMEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nMEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# CELERY SETTINGS",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nMEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# CELERY SETTINGS\nCELERY_BROKER_URL = \"redis://localhost\"\nCELERY_RESULT_BACKEND = \"redis://localhost\"\nCELERY_RESULT_BACKEND = 'django-db'",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "MEDIA_URL = 'media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# CELERY SETTINGS\nCELERY_BROKER_URL = \"redis://localhost\"\nCELERY_RESULT_BACKEND = \"redis://localhost\"\nCELERY_RESULT_BACKEND = 'django-db'\nCELERY_CACHE_BACKEND = 'django-cache'",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR / 'media'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# CELERY SETTINGS\nCELERY_BROKER_URL = \"redis://localhost\"\nCELERY_RESULT_BACKEND = \"redis://localhost\"\nCELERY_RESULT_BACKEND = 'django-db'\nCELERY_CACHE_BACKEND = 'django-cache'\nBROKER_CONNECTION_RETRY = True",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# CELERY SETTINGS\nCELERY_BROKER_URL = \"redis://localhost\"\nCELERY_RESULT_BACKEND = \"redis://localhost\"\nCELERY_RESULT_BACKEND = 'django-db'\nCELERY_CACHE_BACKEND = 'django-cache'\nBROKER_CONNECTION_RETRY = True\nBROKER_CONNECTION_MAX_RETRIES = 0\nBROKER_CONNECTION_TIMEOUT = 360\nCELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BROKER_URL",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "CELERY_BROKER_URL = \"redis://localhost\"\nCELERY_RESULT_BACKEND = \"redis://localhost\"\nCELERY_RESULT_BACKEND = 'django-db'\nCELERY_CACHE_BACKEND = 'django-cache'\nBROKER_CONNECTION_RETRY = True\nBROKER_CONNECTION_MAX_RETRIES = 0\nBROKER_CONNECTION_TIMEOUT = 360\nCELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'\nCELERY_RESULT_EXTENDED = True\nREST_FRAMEWORK = {",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_BACKEND",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "CELERY_RESULT_BACKEND = \"redis://localhost\"\nCELERY_RESULT_BACKEND = 'django-db'\nCELERY_CACHE_BACKEND = 'django-cache'\nBROKER_CONNECTION_RETRY = True\nBROKER_CONNECTION_MAX_RETRIES = 0\nBROKER_CONNECTION_TIMEOUT = 360\nCELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'\nCELERY_RESULT_EXTENDED = True\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_BACKEND",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "CELERY_RESULT_BACKEND = 'django-db'\nCELERY_CACHE_BACKEND = 'django-cache'\nBROKER_CONNECTION_RETRY = True\nBROKER_CONNECTION_MAX_RETRIES = 0\nBROKER_CONNECTION_TIMEOUT = 360\nCELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'\nCELERY_RESULT_EXTENDED = True\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_CACHE_BACKEND",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "CELERY_CACHE_BACKEND = 'django-cache'\nBROKER_CONNECTION_RETRY = True\nBROKER_CONNECTION_MAX_RETRIES = 0\nBROKER_CONNECTION_TIMEOUT = 360\nCELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'\nCELERY_RESULT_EXTENDED = True\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ]",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BROKER_CONNECTION_RETRY",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "BROKER_CONNECTION_RETRY = True\nBROKER_CONNECTION_MAX_RETRIES = 0\nBROKER_CONNECTION_TIMEOUT = 360\nCELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'\nCELERY_RESULT_EXTENDED = True\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ]\n}",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BROKER_CONNECTION_MAX_RETRIES",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "BROKER_CONNECTION_MAX_RETRIES = 0\nBROKER_CONNECTION_TIMEOUT = 360\nCELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'\nCELERY_RESULT_EXTENDED = True\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ]\n}\nSIMPLE_JWT = {",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BROKER_CONNECTION_TIMEOUT",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "BROKER_CONNECTION_TIMEOUT = 360\nCELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'\nCELERY_RESULT_EXTENDED = True\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ]\n}\nSIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=120),",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BEAT_SCHEDULER",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "CELERY_BEAT_SCHEDULER = 'django_celery_beat.schedulers:DatabaseScheduler'\nCELERY_RESULT_EXTENDED = True\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ]\n}\nSIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=120),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=1),",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_EXTENDED",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "CELERY_RESULT_EXTENDED = True\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ]\n}\nSIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=120),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=1),\n    \"ROTATE_REFRESH_TOKENS\": False,",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ]\n}\nSIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=120),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=1),\n    \"ROTATE_REFRESH_TOKENS\": False,\n    \"BLACKLIST_AFTER_ROTATION\": False,",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=120),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=1),\n    \"ROTATE_REFRESH_TOKENS\": False,\n    \"BLACKLIST_AFTER_ROTATION\": False,\n    \"UPDATE_LAST_LOGIN\": False,\n}\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:8000\",\n    \"http://127.0.0.1:8000\",",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "employee_management.settings",
+        "description": "employee_management.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://localhost:8000\",\n    \"http://127.0.0.1:8000\",\n]",
+        "detail": "employee_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "employee_management.urls",
+        "description": "employee_management.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('account.urls')),\n    path('', include('account.api.urls')),\n]",
+        "detail": "employee_management.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "employee_management.wsgi",
+        "description": "employee_management.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "employee_management.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'employee_management.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
